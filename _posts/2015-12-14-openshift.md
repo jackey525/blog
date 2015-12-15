@@ -11,8 +11,8 @@ tags : [Openshift]
 1. [Openshift](https://openshift.redhat.com/app/console/applications)
 
 2. git
-	>     ssh 566e99c77628e141ab00003f@doraemon-ewebs.rhcloud.com/~/git/doraemon.git/
-	>     private key 
+    >     ssh 566e99c77628e141ab00003f@doraemon-ewebs.rhcloud.com/~/git/doraemon.git/
+    >     private key 
     >     C:\Users\usr\Downloads\dsa.ppk
 
 3. phpmyadmin
