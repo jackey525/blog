@@ -16,8 +16,8 @@ tags : [Openshift]
     >     C:\Users\usr\Downloads\dsa.ppk
 
 3. phpmyadmin
-    >     URL: 
-    >     https://doraemon-ewebs.rhcloud.com/phpmyadmin/
+> URL: 
+> https://doraemon-ewebs.rhcloud.com/phpmyadmin/
 
 # 資源
 -----
