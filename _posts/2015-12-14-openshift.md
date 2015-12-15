@@ -8,7 +8,7 @@ tags : [Openshift]
 
 # 架構
 -----
-1. Openshift[https://openshift.redhat.com/app/console/applications]
+1. [Openshift](https://openshift.redhat.com/app/console/applications)
 
 2. git
 	ssh 566e99c77628e141ab00003f@doraemon-ewebs.rhcloud.com/~/git/doraemon.git/
@@ -17,9 +17,10 @@ tags : [Openshift]
 
 
 3. phpmyadmin
-	URL: https://doraemon-ewebs.rhcloud.com/phpmyadmin/
+    >     URL: 
+    >     https://doraemon-ewebs.rhcloud.com/phpmyadmin/
 
 # 資源
 -----
-* 網站
-	http://doraemon-ewebs.rhcloud.com/
+* demo網站
+    * http://doraemon-ewebs.rhcloud.com/
