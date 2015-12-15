@@ -1,0 +1,13 @@
+---
+layout: post
+category : CI
+tagline: "Jenkins Gitlab Continuous integration"
+tags : [Jenkins Gitlab]
+---
+{% include JB/setup %}
+
+# 持續整合 Continuous integration 
+-----
+* [簡介](https://www.dotblogs.com.tw/hatelove/archive/2011/12/25/introducing-continuous-integration.aspx)
+* [Jenkins+Gitlab搭建持續整合(CI)環境](http://hyhx2008.github.io/li-yong-jenkinsgitlabda-jian-chi-xu-ji-cheng-cihuan-jing.html)
+* [Continuous Delivery with Docker and Jenkins](http://blog.philipphauer.de/tutorial-continuous-delivery-with-docker-jenkins/)
